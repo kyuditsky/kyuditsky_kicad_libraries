@@ -1,12 +1,12 @@
 Specific kiCAD symbols & footprints libraries
 
 My process for Adding new kicad libraries:
-_
+
 Unzip folder in kyuditsky_kicad_libraries
-_
+
 Footprints:
 	drop .kicad_mod into .pretty folder
-_
+
 Symbols
 	>manage symbol libraries
 		add symbol
